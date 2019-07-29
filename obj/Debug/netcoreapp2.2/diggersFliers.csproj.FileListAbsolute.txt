@@ -1,0 +1,11 @@
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\bin\Debug\netcoreapp2.2\diggersFliers.deps.json
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\bin\Debug\netcoreapp2.2\diggersFliers.runtimeconfig.json
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\bin\Debug\netcoreapp2.2\diggersFliers.runtimeconfig.dev.json
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\bin\Debug\netcoreapp2.2\diggersFliers.dll
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\bin\Debug\netcoreapp2.2\diggersFliers.pdb
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.csprojAssemblyReference.cache
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.csproj.CoreCompileInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.AssemblyInfoInputs.cache
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.AssemblyInfo.cs
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.dll
+C:\Users\matth\workspace\bookOneBangazon\diggersFliers\obj\Debug\netcoreapp2.2\diggersFliers.pdb
